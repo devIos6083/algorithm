@@ -13,4 +13,4 @@
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
-|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Spiral Matrix](https://github.com/ChaminLee/Algorithm/blob/main/LeetCode/Array/Spiral%20Matrix.swift)|`Array`|Swift|
+|[A+B](https://www.acmicpc.net/problem/1000)|[A+B](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/1000%EB%B2%88.swift)|`구현`|Swift|
