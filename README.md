@@ -31,3 +31,7 @@
 |[A+B - 3](https://www.acmicpc.net/problem/10950)|[A+B - 3](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/10950%EB%B2%88.swift)|`구현`|Swift|
 |[A+B - 4](https://www.acmicpc.net/problem/10951)|[A+B - 4](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/10951%EB%B2%88.swift)|`구현`|Swift|
 |[A+B - 5](https://www.acmicpc.net/problem/10952)|[A+B - 5](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/10952%EB%B2%88.swift)|`구현`|Swift|
+|[A×B](https://www.acmicpc.net/problem/10998)|[A×B](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/10998%EB%B2%88.swift)|`구현`|Swift|
+|[아스키 코드](https://www.acmicpc.net/problem/11654)|[아스키 코드](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/11654%EB%B2%88.swift)|`구현`|Swift|
+|[새싹](https://www.acmicpc.net/problem/25083)|[새싹](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/25083%EB%B2%88.swift)|`구현`|Swift|
+|[문자와 문자열](https://www.acmicpc.net/problem/27866)|[문자와 문자열](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/27866%EB%B2%88.swift)|`구현`|Swift|
