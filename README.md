@@ -35,3 +35,13 @@
 |[아스키 코드](https://www.acmicpc.net/problem/11654)|[아스키 코드](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/11654%EB%B2%88.swift)|`구현`|Swift|
 |[새싹](https://www.acmicpc.net/problem/25083)|[새싹](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/25083%EB%B2%88.swift)|`구현`|Swift|
 |[문자와 문자열](https://www.acmicpc.net/problem/27866)|[문자와 문자열](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/27866%EB%B2%88.swift)|`구현`|Swift|
+
+
+#### `브론즈`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/24390%EB%B2%88.swift)|`구현`|Swift|
+|[숫자의 합](https://www.acmicpc.net/problem/11720)|[숫자의 합](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/11720%EB%B2%88.swift)|`구현`|Swift|
+|[최댓값](https://www.acmicpc.net/problem/2562)|[최댓값](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/2562%EB%B2%88.swift)|`구현`|Swift|
+|[알람 시계](https://www.acmicpc.net/problem/2884)|[알람 시계](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/2884%EB%B2%88.swift)|`구현`|Swift|
