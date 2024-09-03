@@ -43,7 +43,7 @@
 |------|---|---|---|
 |[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2439%EB%B2%88.swift)|`구현`|Swift|
 |[숫자의 합](https://www.acmicpc.net/problem/11720)|[숫자의 합](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/11720%EB%B2%88.swift)|`구현`|Swift|
-|[최댓값](https://www.acmicpc.net/problem/2562)|[최댓값](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2562%EB%B2%88.swift|`구현`|Swift|
-|[알람 시계](https://www.acmicpc.net/problem/2884)|[알람 시계](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2884%EB%B2%88.swift|`구현`|Swift|
-|[ACM 호텔](https://www.acmicpc.net/problem/10250)|[ACM 호텔](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10250%EB%B2%88swift.swift|`구현`|Swift|
-|[최소, 최대](https://www.acmicpc.net/problem/10818)|[최소, 최대](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10818%EB%B2%88.swift|`구현`|Swift|
+|[최댓값](https://www.acmicpc.net/problem/2562)|[최댓값](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2562%EB%B2%88.swift)|`구현`|Swift|
+|[알람 시계](https://www.acmicpc.net/problem/2884)|[알람 시계](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2884%EB%B2%88.swift)|`구현`|Swift|
+|[ACM 호텔](https://www.acmicpc.net/problem/10250)|[ACM 호텔](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10250%EB%B2%88swift.swift)|`구현`|Swift|
+|[최소, 최대](https://www.acmicpc.net/problem/10818)|[최소, 최대](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10818%EB%B2%88.swift)|`구현`|Swift|
