@@ -47,3 +47,7 @@
 |[알람 시계](https://www.acmicpc.net/problem/2884)|[알람 시계](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2884%EB%B2%88.swift)|`구현`|Swift|
 |[ACM 호텔](https://www.acmicpc.net/problem/10250)|[ACM 호텔](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10250%EB%B2%88swift.swift)|`구현`|Swift|
 |[최소, 최대](https://www.acmicpc.net/problem/10818)|[최소, 최대](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10818%EB%B2%88.swift)|`구현`|Swift|
+|[단어의 갯수](https://www.acmicpc.net/problem/1152)|[단어의 갯수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1152%EB%B2%88.swift)|`문자열`|Swift|
+|[숫자의 갯수](https://www.acmicpc.net/problem/2577)|[숫자의 갯수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2577%EB%B2%88.swift)|`구현`|Swift|
+|[문자열 반복](https://www.acmicpc.net/problem/2675)|[문자열 반복](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2675%EB%B2%88.swift)|`문자열`|Swift|
+|[음계](https://www.acmicpc.net/problem/2920)|[음계](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2920%EB%B2%88.swift)|`구현`|Swift|
