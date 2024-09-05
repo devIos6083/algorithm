@@ -51,3 +51,7 @@
 |[숫자의 갯수](https://www.acmicpc.net/problem/2577)|[숫자의 갯수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2577%EB%B2%88.swift)|`구현`|Swift|
 |[문자열 반복](https://www.acmicpc.net/problem/2675)|[문자열 반복](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2675%EB%B2%88.swift)|`문자열`|Swift|
 |[음계](https://www.acmicpc.net/problem/2920)|[음계](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2920%EB%B2%88.swift)|`구현`|Swift|
+|[A + B - C](https://www.acmicpc.net/problem/31403)|[A + B - C](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/31403%EB%B2%88.swift)|`문자열`|Swift|
+|[나머지](https://www.acmicpc.net/problem/3052)|[나머지](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/3052%EB%B2%88.swift)|`구현`|Swift|
+|[OX퀴즈](https://www.acmicpc.net/problem/8958)|[OX퀴즈](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/8958%EB%B2%88.swift)|`문자열`|Swift|
+|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[알파벳 찾기](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10809%EB%B2%88.swift)|`문자열`|Swift|
