@@ -55,3 +55,6 @@
 |[나머지](https://www.acmicpc.net/problem/3052)|[나머지](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/3052%EB%B2%88.swift)|`구현`|Swift|
 |[OX퀴즈](https://www.acmicpc.net/problem/8958)|[OX퀴즈](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/8958%EB%B2%88.swift)|`문자열`|Swift|
 |[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[알파벳 찾기](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10809%EB%B2%88.swift)|`문자열`|Swift|
+|[직각삼각형](https://www.acmicpc.net/problem/4153)|[직각삼각형](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/4153%EB%B2%88.swift)|`구현`|Swift|
+|[웰컴 키트](https://www.acmicpc.net/problem/30802)|[웰컴 키트](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/30802%EB%B2%88.swift)|`구현`|Swift|
+|[소수 찾기](https://www.acmicpc.net/problem/1978)|[소수 찾기](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1978%EB%B2%88.swift)|`구현`|Swift|
