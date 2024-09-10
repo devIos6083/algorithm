@@ -58,3 +58,6 @@
 |[직각삼각형](https://www.acmicpc.net/problem/4153)|[직각삼각형](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/4153%EB%B2%88.swift)|`구현`|Swift|
 |[웰컴 키트](https://www.acmicpc.net/problem/30802)|[웰컴 키트](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/30802%EB%B2%88.swift)|`구현`|Swift|
 |[소수 찾기](https://www.acmicpc.net/problem/1978)|[소수 찾기](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1978%EB%B2%88.swift)|`구현`|Swift|
+|[벌집](https://www.acmicpc.net/problem/2292)|[벌집](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2292%EB%B2%88.swift)|`구현`|Swift|
+|[블랙잭](https://www.acmicpc.net/problem/2798)|[블랙잭](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2798%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
+|[분해합](https://www.acmicpc.net/problem/2231)|[분해합](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2231%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
