@@ -61,3 +61,6 @@
 |[벌집](https://www.acmicpc.net/problem/2292)|[벌집](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2292%EB%B2%88.swift)|`구현`|Swift|
 |[블랙잭](https://www.acmicpc.net/problem/2798)|[블랙잭](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2798%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
 |[분해합](https://www.acmicpc.net/problem/2231)|[분해합](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2231%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
+|[해싱](https://www.acmicpc.net/problem/15829)|[해싱](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/15829%EB%B2%88.swift)|`해싱`|Swift|
+|[평균](https://www.acmicpc.net/problem/1546)|[평균](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1546%EB%B2%88.swift)|`구현`|Swift|
+|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[최대공약수와 최소공배수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2609%EB%B2%88.swift)|`구현`|Swift|
