@@ -64,3 +64,6 @@
 |[해싱](https://www.acmicpc.net/problem/15829)|[해싱](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/15829%EB%B2%88.swift)|`해싱`|Swift|
 |[평균](https://www.acmicpc.net/problem/1546)|[평균](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1546%EB%B2%88.swift)|`구현`|Swift|
 |[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[최대공약수와 최소공배수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2609%EB%B2%88.swift)|`구현`|Swift|
+|[팰린드롬수](https://www.acmicpc.net/problem/1259)|[팰린드롬수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1259%EB%B2%88.swift)|`구현`|Swift|
+|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[달팽이는 올라가고 싶다](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2869%EB%B2%88.swift)|`구현`|Swift|
+|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[수 정렬하기 3](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10989%EB%B2%88.swift)|`정렬(counting sort)`|Swift|
