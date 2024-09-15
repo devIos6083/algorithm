@@ -67,3 +67,6 @@
 |[팰린드롬수](https://www.acmicpc.net/problem/1259)|[팰린드롬수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1259%EB%B2%88.swift)|`구현`|Swift|
 |[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[달팽이는 올라가고 싶다](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2869%EB%B2%88.swift)|`구현`|Swift|
 |[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[수 정렬하기 3](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10989%EB%B2%88.swift)|`정렬(counting sort)`|Swift|
+|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[부녀회장이 될테야](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2775%EB%B2%88.swift)|`구현`|Swift|
+|[이항 계수 1](https://www.acmicpc.net/problem/11050)|[이항 계수 1](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/11050%EB%B2%88.swift)|`구현`|Swift|
+|[FizzBuzz](https://www.acmicpc.net/problem/28702)|[FizzBuzz](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/28702%EB%B2%88.swift)|`문자열`|Swift|
