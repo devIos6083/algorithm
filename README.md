@@ -70,3 +70,12 @@
 |[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[부녀회장이 될테야](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2775%EB%B2%88.swift)|`구현`|Swift|
 |[이항 계수 1](https://www.acmicpc.net/problem/11050)|[이항 계수 1](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/11050%EB%B2%88.swift)|`구현`|Swift|
 |[FizzBuzz](https://www.acmicpc.net/problem/28702)|[FizzBuzz](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/28702%EB%B2%88.swift)|`문자열`|Swift|
+
+
+
+#### `실버`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[영화감독 숌](https://www.acmicpc.net/problem/1436)|[영화감독 숌](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1436%EB%B2%88.swift)|`브루트포스 알리즘`|Swift|
+|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[팩토리얼 0의 개수](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1676%EB%B2%88.swift)|`구현`|Swift|
