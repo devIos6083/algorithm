@@ -84,4 +84,7 @@
 |[덩치](https://www.acmicpc.net/problem/7568)|[덩치](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/7568%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
 |[나이순 정렬](https://www.acmicpc.net/problem/10814)|[나이순 정렬](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10814%EB%B2%88.swift)|`정렬`|Swift|
 |[좌표 정렬하기](https://www.acmicpc.net/problem/11650)|[좌표 정렬하기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/11650%EB%B2%88.swift)|`정렬`|Swift|
-|[좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)|[좌표 정렬하기 ](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/11651%EB%B2%88.swift)|`정렬`|Swift|
+|[좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)|[좌표 정렬하기 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/11651%EB%B2%88.swift)|`정렬`|Swift|
+|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[체스판 다시 칠하기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1018%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
+|[수 찾기](https://www.acmicpc.net/problem/1920)|[수 찾기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1920%EB%B2%88.swift)|`정렬`|Swift|
+|[카드 2](https://www.acmicpc.net/problem/2164)|[카드 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2164%EB%B2%88.swift)|`큐`|Swift|
