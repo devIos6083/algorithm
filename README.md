@@ -88,3 +88,6 @@
 |[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[체스판 다시 칠하기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1018%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
 |[수 찾기](https://www.acmicpc.net/problem/1920)|[수 찾기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1920%EB%B2%88.swift)|`정렬`|Swift|
 |[카드 2](https://www.acmicpc.net/problem/2164)|[카드 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2164%EB%B2%88.swift)|`큐`|Swift|
+|[설탕 배달](https://www.acmicpc.net/problem/2839)|[설탕 배달](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2839%EB%B2%88.swift)|`그리디 알고리즘`|Swift|
+|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[균형잡힌 세상](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/4949%EB%B2%88.swift)|`스택`|Swift|
+|[제로](https://www.acmicpc.net/problem/10773)|[제로](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10773%EB%B2%88.swift)|`스택`|Swift|
