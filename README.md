@@ -91,3 +91,8 @@
 |[설탕 배달](https://www.acmicpc.net/problem/2839)|[설탕 배달](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2839%EB%B2%88.swift)|`그리디 알고리즘`|Swift|
 |[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[균형잡힌 세상](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/4949%EB%B2%88.swift)|`스택`|Swift|
 |[제로](https://www.acmicpc.net/problem/10773)|[제로](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10773%EB%B2%88.swift)|`스택`|Swift|
+|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|[숫자 카드 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10816%EB%B2%88.swift)|`해싱`|Swift|
+|[스택](https://www.acmicpc.net/problem/10828)|[스택](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10828%EB%B2%88.swift)|`스택`|Swift|
+|[큐](https://www.acmicpc.net/problem/10845)|[큐](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10845%EB%B2%88.swift)|`큐`|Swift|
+|[오디푸스 문제 0](https://www.acmicpc.net/problem/11866)|[오디푸스 문제 0](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/11866%EB%B2%88.swift)|`큐`|Swift|
+|[괄호](https://www.acmicpc.net/problem/9012)|[괄호](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/9012%EB%B2%88.swift)|`스택`|Swift|
