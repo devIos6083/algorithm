@@ -96,3 +96,7 @@
 |[큐](https://www.acmicpc.net/problem/10845)|[큐](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10845%EB%B2%88.swift)|`큐`|Swift|
 |[오디푸스 문제 0](https://www.acmicpc.net/problem/11866)|[오디푸스 문제 0](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/11866%EB%B2%88.swift)|`큐`|Swift|
 |[괄호](https://www.acmicpc.net/problem/9012)|[괄호](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/9012%EB%B2%88.swift)|`스택`|Swift|
+|[소수 구하기](https://www.acmicpc.net/problem/1929)|[소수 구하기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1929%EB%B2%88.swift)|`에라토스테네스의 체`|Swift|
+|[solved.ac](https://www.acmicpc.net/problem/18110)|[solved.ac](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/18110%EB%B2%88.swift)|`정렬`|Swift|
+|[프린터 큐](https://www.acmicpc.net/problem/1966)|[프린터 큐](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1966%EB%B2%88.swift)|`큐`|Swift|
+|[통계학](https://www.acmicpc.net/problem/2108)|[통계학](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2108%EB%B2%88.swift)|`정렬`|Swift|
