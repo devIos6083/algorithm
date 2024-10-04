@@ -100,3 +100,5 @@
 |[solved.ac](https://www.acmicpc.net/problem/18110)|[solved.ac](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/18110%EB%B2%88.swift)|`정렬`|Swift|
 |[프린터 큐](https://www.acmicpc.net/problem/1966)|[프린터 큐](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1966%EB%B2%88.swift)|`큐`|Swift|
 |[통계학](https://www.acmicpc.net/problem/2108)|[통계학](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2108%EB%B2%88.swift)|`정렬`|Swift|
+|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[랜선 자르기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1654%EB%B2%88.swift)|`이분 탐색`|Swift|
+|[스택 수열](https://www.acmicpc.net/problem/1874)|[스택 수열](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1874%EB%B2%88.swift)|`스택`|Swift|
