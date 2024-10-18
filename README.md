@@ -1,7 +1,7 @@
 # Algorithm 🧐
 
 * 알고리즘 풀이를 정리합니다!
-* swift로 모든 문제를 해결하며 백준의 계급에 따라 문제를 분류합니다
+* swift와 python으로 모든 문제를 해결하며 문제의 카테고리에 따라 분류합니다
 
 ----
 
@@ -9,7 +9,7 @@
 
 ## 백준 
 
-#### `새싹`
+#### `구현`
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
@@ -35,70 +35,111 @@
 |[아스키 코드](https://www.acmicpc.net/problem/11654)|[아스키 코드](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/11654%EB%B2%88.swift)|`구현`|Swift|
 |[새싹](https://www.acmicpc.net/problem/25083)|[새싹](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/25083%EB%B2%88.swift)|`구현`|Swift|
 |[문자와 문자열](https://www.acmicpc.net/problem/27866)|[문자와 문자열](https://github.com/devIos6083/algorithm/blob/main/%EC%83%88%EC%8B%B9/27866%EB%B2%88.swift)|`구현`|Swift|
-
-
-#### `브론즈`
-
-|Problem|Solution|Category|Language|
-|------|---|---|---|
 |[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|[별 찍기 - 2](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2439%EB%B2%88.swift)|`구현`|Swift|
 |[숫자의 합](https://www.acmicpc.net/problem/11720)|[숫자의 합](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/11720%EB%B2%88.swift)|`구현`|Swift|
 |[최댓값](https://www.acmicpc.net/problem/2562)|[최댓값](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2562%EB%B2%88.swift)|`구현`|Swift|
 |[알람 시계](https://www.acmicpc.net/problem/2884)|[알람 시계](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2884%EB%B2%88.swift)|`구현`|Swift|
 |[ACM 호텔](https://www.acmicpc.net/problem/10250)|[ACM 호텔](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10250%EB%B2%88swift.swift)|`구현`|Swift|
 |[최소, 최대](https://www.acmicpc.net/problem/10818)|[최소, 최대](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10818%EB%B2%88.swift)|`구현`|Swift|
-|[단어의 갯수](https://www.acmicpc.net/problem/1152)|[단어의 갯수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1152%EB%B2%88.swift)|`문자열`|Swift|
 |[숫자의 갯수](https://www.acmicpc.net/problem/2577)|[숫자의 갯수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2577%EB%B2%88.swift)|`구현`|Swift|
-|[문자열 반복](https://www.acmicpc.net/problem/2675)|[문자열 반복](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2675%EB%B2%88.swift)|`문자열`|Swift|
 |[음계](https://www.acmicpc.net/problem/2920)|[음계](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2920%EB%B2%88.swift)|`구현`|Swift|
-|[A + B - C](https://www.acmicpc.net/problem/31403)|[A + B - C](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/31403%EB%B2%88.swift)|`문자열`|Swift|
 |[나머지](https://www.acmicpc.net/problem/3052)|[나머지](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/3052%EB%B2%88.swift)|`구현`|Swift|
-|[OX퀴즈](https://www.acmicpc.net/problem/8958)|[OX퀴즈](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/8958%EB%B2%88.swift)|`문자열`|Swift|
-|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[알파벳 찾기](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10809%EB%B2%88.swift)|`문자열`|Swift|
 |[직각삼각형](https://www.acmicpc.net/problem/4153)|[직각삼각형](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/4153%EB%B2%88.swift)|`구현`|Swift|
 |[웰컴 키트](https://www.acmicpc.net/problem/30802)|[웰컴 키트](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/30802%EB%B2%88.swift)|`구현`|Swift|
 |[소수 찾기](https://www.acmicpc.net/problem/1978)|[소수 찾기](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1978%EB%B2%88.swift)|`구현`|Swift|
 |[벌집](https://www.acmicpc.net/problem/2292)|[벌집](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2292%EB%B2%88.swift)|`구현`|Swift|
-|[블랙잭](https://www.acmicpc.net/problem/2798)|[블랙잭](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2798%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
-|[분해합](https://www.acmicpc.net/problem/2231)|[분해합](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2231%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
-|[해싱](https://www.acmicpc.net/problem/15829)|[해싱](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/15829%EB%B2%88.swift)|`해싱`|Swift|
 |[평균](https://www.acmicpc.net/problem/1546)|[평균](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1546%EB%B2%88.swift)|`구현`|Swift|
 |[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[최대공약수와 최소공배수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2609%EB%B2%88.swift)|`구현`|Swift|
 |[팰린드롬수](https://www.acmicpc.net/problem/1259)|[팰린드롬수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1259%EB%B2%88.swift)|`구현`|Swift|
 |[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[달팽이는 올라가고 싶다](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2869%EB%B2%88.swift)|`구현`|Swift|
-|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[수 정렬하기 3](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10989%EB%B2%88.swift)|`정렬(counting sort)`|Swift|
 |[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[부녀회장이 될테야](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2775%EB%B2%88.swift)|`구현`|Swift|
 |[이항 계수 1](https://www.acmicpc.net/problem/11050)|[이항 계수 1](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/11050%EB%B2%88.swift)|`구현`|Swift|
-|[FizzBuzz](https://www.acmicpc.net/problem/28702)|[FizzBuzz](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/28702%EB%B2%88.swift)|`문자열`|Swift|
+|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[팩토리얼 0의 개수](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1676%EB%B2%88.swift)|`구현`|Swift|
 
 
-
-#### `실버`
+#### `문자열`
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
+|[문자열 반복](https://www.acmicpc.net/problem/2675)|[문자열 반복](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2675%EB%B2%88.swift)|`문자열`|Swift|
+|[OX퀴즈](https://www.acmicpc.net/problem/8958)|[OX퀴즈](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/8958%EB%B2%88.swift)|`문자열`|Swift|
+|[FizzBuzz](https://www.acmicpc.net/problem/28702)|[FizzBuzz](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/28702%EB%B2%88.swift)|`문자열`|Swift|
+|[단어의 갯수](https://www.acmicpc.net/problem/1152)|[단어의 갯수](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/1152%EB%B2%88.swift)|`문자열`|Swift|
+|[A + B - C](https://www.acmicpc.net/problem/31403)|[A + B - C](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/31403%EB%B2%88.swift)|`문자열`|Swift|
+|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[알파벳 찾기](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10809%EB%B2%88.swift)|`문자열`|Swift|
+
+
+#### `브루트포스 알고리즘`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[블랙잭](https://www.acmicpc.net/problem/2798)|[블랙잭](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2798%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
+|[분해합](https://www.acmicpc.net/problem/2231)|[분해합](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2231%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
 |[영화감독 숌](https://www.acmicpc.net/problem/1436)|[영화감독 숌](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1436%EB%B2%88.swift)|`브루트포스 알리즘`|Swift|
-|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[팩토리얼 0의 개수](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1676%EB%B2%88.swift)|`구현`|Swift|
+|[덩치](https://www.acmicpc.net/problem/7568)|[덩치](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/7568%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
+|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[체스판 다시 칠하기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1018%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
+
+#### `정렬`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[단어 정렬](https://www.acmicpc.net/problem/1181)|[단어 정렬](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1181%EB%B2%88.swift)|`정렬`|Swift|
 |[수 정렬하기 2](https://www.acmicpc.net/problem/2751)|[수 정렬하기 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2751%EB%B2%88.swift)|`정렬`|Swift|
-|[덩치](https://www.acmicpc.net/problem/7568)|[덩치](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/7568%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
 |[나이순 정렬](https://www.acmicpc.net/problem/10814)|[나이순 정렬](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10814%EB%B2%88.swift)|`정렬`|Swift|
 |[좌표 정렬하기](https://www.acmicpc.net/problem/11650)|[좌표 정렬하기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/11650%EB%B2%88.swift)|`정렬`|Swift|
 |[좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)|[좌표 정렬하기 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/11651%EB%B2%88.swift)|`정렬`|Swift|
-|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[체스판 다시 칠하기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1018%EB%B2%88.swift)|`브루트포스 알고리즘`|Swift|
 |[수 찾기](https://www.acmicpc.net/problem/1920)|[수 찾기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1920%EB%B2%88.swift)|`정렬`|Swift|
-|[카드 2](https://www.acmicpc.net/problem/2164)|[카드 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2164%EB%B2%88.swift)|`큐`|Swift|
+|[solved.ac](https://www.acmicpc.net/problem/18110)|[solved.ac](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/18110%EB%B2%88.swift)|`정렬`|Swift|
+|[통계학](https://www.acmicpc.net/problem/2108)|[통계학](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2108%EB%B2%88.swift)|`정렬`|Swift|
+|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[수 정렬하기 3](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/10989%EB%B2%88.swift)|`정렬`|Swift|
+
+
+
+
+
+#### `그리디`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[설탕 배달](https://www.acmicpc.net/problem/2839)|[설탕 배달](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2839%EB%B2%88.swift)|`그리디 알고리즘`|Swift|
+
+#### `스택`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[균형잡힌 세상](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/4949%EB%B2%88.swift)|`스택`|Swift|
 |[제로](https://www.acmicpc.net/problem/10773)|[제로](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10773%EB%B2%88.swift)|`스택`|Swift|
-|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|[숫자 카드 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10816%EB%B2%88.swift)|`해싱`|Swift|
 |[스택](https://www.acmicpc.net/problem/10828)|[스택](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10828%EB%B2%88.swift)|`스택`|Swift|
+|[괄호](https://www.acmicpc.net/problem/9012)|[괄호](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/9012%EB%B2%88.swift)|`스택`|Swift|
+|[스택 수열](https://www.acmicpc.net/problem/1874)|[스택 수열](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1874%EB%B2%88.swift)|`스택`|Swift|
+
+#### `큐`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[카드 2](https://www.acmicpc.net/problem/2164)|[카드 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2164%EB%B2%88.swift)|`큐`|Swift|
+|[프린터 큐](https://www.acmicpc.net/problem/1966)|[프린터 큐](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1966%EB%B2%88.swift)|`큐`|Swift|
 |[큐](https://www.acmicpc.net/problem/10845)|[큐](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10845%EB%B2%88.swift)|`큐`|Swift|
 |[오디푸스 문제 0](https://www.acmicpc.net/problem/11866)|[오디푸스 문제 0](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/11866%EB%B2%88.swift)|`큐`|Swift|
-|[괄호](https://www.acmicpc.net/problem/9012)|[괄호](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/9012%EB%B2%88.swift)|`스택`|Swift|
-|[소수 구하기](https://www.acmicpc.net/problem/1929)|[소수 구하기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1929%EB%B2%88.swift)|`에라토스테네스의 체`|Swift|
-|[solved.ac](https://www.acmicpc.net/problem/18110)|[solved.ac](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/18110%EB%B2%88.swift)|`정렬`|Swift|
-|[프린터 큐](https://www.acmicpc.net/problem/1966)|[프린터 큐](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1966%EB%B2%88.swift)|`큐`|Swift|
-|[통계학](https://www.acmicpc.net/problem/2108)|[통계학](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/2108%EB%B2%88.swift)|`정렬`|Swift|
+
+
+#### `해싱`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|[숫자 카드 2](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/10816%EB%B2%88.swift)|`해싱`|Swift|
+|[해싱](https://www.acmicpc.net/problem/15829)|[해싱](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/15829%EB%B2%88.swift)|`해싱`|Swift|
+
+
+#### `탐색`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
 |[랜선 자르기](https://www.acmicpc.net/problem/1654)|[랜선 자르기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1654%EB%B2%88.swift)|`이분 탐색`|Swift|
-|[스택 수열](https://www.acmicpc.net/problem/1874)|[스택 수열](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1874%EB%B2%88.swift)|`스택`|Swift|
+
+
+#### `기타`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[소수 구하기](https://www.acmicpc.net/problem/1929)|[소수 구하기](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1929%EB%B2%88.swift)|`에라토스테네스의 체`|Swift|
