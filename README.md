@@ -60,7 +60,7 @@
 
 |Problem|Solution|Category|Language|
 |------|---|---|---|
-|[거스름돈](https://www.acmicpc.net/problem/2675)|[거스름돈](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2675%EB%B2%88.swift)|`그리디 알고리즘`|Python|
+|[거스름돈](https://www.acmicpc.net/problem/14916)|[거스름돈](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/14916.py3)|`그리디 알고리즘`|Python|
 
 
 #### `문자열`
