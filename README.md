@@ -56,6 +56,12 @@
 |[이항 계수 1](https://www.acmicpc.net/problem/11050)|[이항 계수 1](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/11050%EB%B2%88.swift)|`구현`|Swift|
 |[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[팩토리얼 0의 개수](https://github.com/devIos6083/algorithm/blob/main/%EC%8B%A4%EB%B2%84/1676%EB%B2%88.swift)|`구현`|Swift|
 
+#### `그리디 알고리즘`
+
+|Problem|Solution|Category|Language|
+|------|---|---|---|
+|[거스름돈](https://www.acmicpc.net/problem/2675)|[거스름돈](https://github.com/devIos6083/algorithm/blob/main/%EB%B8%8C%EB%A1%A0%EC%A6%88/2675%EB%B2%88.swift)|`그리디 알고리즘`|Python|
+
 
 #### `문자열`
 
